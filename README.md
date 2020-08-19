@@ -1,2 +1,11 @@
-# React-to-do-list
-Its a simple to do list  app created with react with the help of fire-base
+React-to-do-list
+================
+
+Its a simple __Todo List App__ Made in React.js Along with the use of Firebase
+
+
+## What i Learned
+
+* React.js
+
+* Firebase
